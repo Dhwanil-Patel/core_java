@@ -1,4 +1,4 @@
-package com.world_of_anonymous.core_java.journaldev_interview;
+package com.world_of_anonymous.core_java.journaldev;
 
 /**
  * Palindrome : Actual number and their reverse is same

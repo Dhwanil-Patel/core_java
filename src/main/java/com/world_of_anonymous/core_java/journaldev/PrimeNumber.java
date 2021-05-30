@@ -1,4 +1,4 @@
-package com.world_of_anonymous.core_java.journaldev_interview;
+package com.world_of_anonymous.core_java.journaldev;
 
 /**
  * Prime : Divide by 1 or own self.
